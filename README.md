@@ -4,6 +4,13 @@ A practical tool to organize, adjust, and validate Power BI report layouts, maki
 
 Easy Piece helps report developers review visual placement, adjust layouts, and identify inconsistencies through a visual interface.
 
+## 🎬 Demo & Download
+
+- [Watch the demo](https://github.com/andrezaumbelino/Easy_piece/blob/main/EasyPiece%20Demo.mp4)
+- [Get Easy Piece](https://github.com/andrezaumbelino/Easy_piece/blob/main/easy_piece.html)
+
+To use the tool, download `easy_piece.html` using **Download raw file** on GitHub, then open it in your browser.
+
 ## Why Easy Piece?
 
 Adjusting report layouts can involve repetitive work: moving visuals, checking spacing, and reviewing alignment across pages.
